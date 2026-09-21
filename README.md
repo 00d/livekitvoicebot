@@ -7,9 +7,9 @@ design writeup and `bug_report/BUG_REPORT.md` for findings.
 
 ## 1. Accounts you need first
 
-`LIVEKIT_URL`, `LIVEKIT_API_KEY`, `LIVEKIT_API_SECRET` - https://cloud.livekit.io
-`GOOGLE_API_KEY` - https://aistudio.google.com/apikey
-`TWILIO_TERMINATION_URI`, `TWILIO_SIP_USERNAME`, `TWILIO_SIP_PASSWORD`, `TWILIO_CALLER_ID_NUMBER` - Twilio Console, Elastic SIP Trunking
+- `LIVEKIT_URL`, `LIVEKIT_API_KEY`, `LIVEKIT_API_SECRET` - https://cloud.livekit.io
+- `GOOGLE_API_KEY` - https://aistudio.google.com/apikey
+- `TWILIO_TERMINATION_URI`, `TWILIO_SIP_USERNAME`, `TWILIO_SIP_PASSWORD`, `TWILIO_CALLER_ID_NUMBER` - Twilio Console, Elastic SIP Trunking
 
 Deepgram STT/TTS need no separate account since they're routed through
 LiveKit Inference and billed with your LiveKit Cloud project (see `ARCHITECTURE.md`)
