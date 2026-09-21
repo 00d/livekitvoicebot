@@ -1,0 +1,13 @@
+{
+  "call_id": "insurance_not_accepted-1789967552",
+  "scenario_id": "insurance_not_accepted",
+  "scenario_name": "Edge case: insurance the practice may not take",
+  "scenario_category": "edge_case",
+  "phone_number": "+18054398008",
+  "started_at": "2026-09-21T05:12:35.663983+00:00",
+  "ended_at": "2026-09-21T05:14:47.076237+00:00",
+  "duration_seconds": 131.4,
+  "ended_reason": "CloseReason.PARTICIPANT_DISCONNECTED",
+  "turn_count": 14,
+  "amd_events": []
+}

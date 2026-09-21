@@ -1,0 +1,97 @@
+[
+  {
+    "t": 1789967313.3165991,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789967321.7815921,
+    "role": "user",
+    "text": "Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789967322.083853,
+    "role": "assistant",
+    "text": "Yeah hi, um, I need to come in. Something's wrong with my hip, I think, or maybe it's my back... it's kind of hard to tell."
+  },
+  {
+    "t": 1789967336.0181718,
+    "role": "user",
+    "text": "Can I get your full name and date of birth?"
+  },
+  {
+    "t": 1789967338.276979,
+    "role": "user",
+    "text": "This will help me look up your chart."
+  },
+  {
+    "t": 1789967338.289898,
+    "role": "assistant",
+    "text": "Sure, it's Teresa G\u00f3mez, and my date of birth is May 14th, 1966."
+  },
+  {
+    "t": 1789967351.98252,
+    "role": "assistant",
+    "text": "Hello? Did you"
+  },
+  {
+    "t": 1789967363.680777,
+    "role": "user",
+    "text": "Just to confirm, I have I have your name as Teresa Gomez. And your date of birth is May fourteenth. Nineteen sixty six. Is that correct?"
+  },
+  {
+    "t": 1789967363.6962152,
+    "role": "assistant",
+    "text": "Yes, that's correct. So yeah, like I said, I'm just trying to figure out when I can come in to get this checked out."
+  },
+  {
+    "t": 1789967386.177671,
+    "role": "user",
+    "text": "Would you like me to look up your record using your phone number? If so, can you tell me the number you have on file with us? If you're not sure, I can confirm your name and date of birth again."
+  },
+  {
+    "t": 1789967386.1961322,
+    "role": "assistant",
+    "text": "My phone number is 555-0148. But yeah, I'm just hoping to schedule an appointment because my hip or back has been bothering me."
+  },
+  {
+    "t": 1789967415.233186,
+    "role": "user",
+    "text": "Just to confirm, I have your name as Teresa Gomez, date of birth as May fourteenth nineteen sixty six. And your phone number as five five five zero one four eight. Is all of that correct?"
+  },
+  {
+    "t": 1789967415.252144,
+    "role": "assistant",
+    "text": "Yes, that's all correct. So, like I was saying, I'm not really sure if it's my hip or my back that's causing the problem... do you know what kind of appointment I should be getting?"
+  },
+  {
+    "t": 1789967442.281426,
+    "role": "user",
+    "text": "I have your date of birth as May fourteenth nineteen sixty six. And your phone number is five five five zero one four eight. Can you confirm both are correct? Once confirmed, I'll help with the right appointment type."
+  },
+  {
+    "t": 1789967442.298667,
+    "role": "assistant",
+    "text": "Yes, I just confirmed both of those twice now. They are correct. Like I asked, how do we figure out if I need to see someone for my hip or my back?"
+  },
+  {
+    "t": 1789967461.026768,
+    "role": "user",
+    "text": "I'm unable to find your record in our system. I'll connect you to our patient support team so they can help you schedule the right appointment."
+  },
+  {
+    "t": 1789967462.83149,
+    "role": "user",
+    "text": "Please stay on the line."
+  },
+  {
+    "t": 1789967465.1656399,
+    "role": "user",
+    "text": "Transferring you now. Thank you."
+  },
+  {
+    "t": 1789967467.5168488,
+    "role": "user",
+    "text": "Hello."
+  }
+]

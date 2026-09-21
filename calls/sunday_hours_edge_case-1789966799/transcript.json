@@ -1,0 +1,122 @@
+[
+  {
+    "t": 1789966811.415812,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789966814.266065,
+    "role": "assistant",
+    "text": "Hi, I'd"
+  },
+  {
+    "t": 1789966820.126297,
+    "role": "user",
+    "text": "Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789966820.453969,
+    "role": "assistant",
+    "text": "Hi, I'm calling to book a new appointment, please."
+  },
+  {
+    "t": 1789966831.778292,
+    "role": "user",
+    "text": "I see you're calling from the number we have on file. Am I speaking with Maria?"
+  },
+  {
+    "t": 1789966833.9795651,
+    "role": "assistant",
+    "text": "No, this is Linda Osei."
+  },
+  {
+    "t": 1789966842.62598,
+    "role": "user",
+    "text": "Please provide your full date of birth."
+  },
+  {
+    "t": 1789966842.758222,
+    "role": "assistant",
+    "text": "My date of birth is October 15th, 1983."
+  },
+  {
+    "t": 1789966866.9070442,
+    "role": "user",
+    "text": "Just to confirm, I have your name as Linda Osti, and your date of birth as October fifteenth nineteen eighty three. Is that correct? If so, could you please spell your first and last name for me?"
+  },
+  {
+    "t": 1789966866.922461,
+    "role": "assistant",
+    "text": "My last name is actually Osei, O-S-E-I. And my first name is Linda, L-I-N-D-A."
+  },
+  {
+    "t": 1789966894.2513301,
+    "role": "user",
+    "text": "Thank you. Just to confirm, your first name is Winda, spelled w I n d a. And your last name is Osei. Spelled o s e I. Your date of birth is October fifteenth nineteen eighty three. Is that all correct?"
+  },
+  {
+    "t": 1789966894.267355,
+    "role": "assistant",
+    "text": "No, my first name is Linda, with an L. L-I-N-D-A. The rest is correct."
+  },
+  {
+    "t": 1789966917.2546072,
+    "role": "user",
+    "text": "Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number. If you're not sure I can confirm your name and date of birth again, just let me know."
+  },
+  {
+    "t": 1789966917.2721841,
+    "role": "assistant",
+    "text": "Yes, you can use the number I'm calling from. And again, my first name is Linda, L-I-N-D-A."
+  },
+  {
+    "t": 1789966943.956547,
+    "role": "user",
+    "text": "I have your first name, as Linda spelled l I n d a. Your last name is Osei. O s e I. Your date of birth, as October fifteenth nineteen eighty three,"
+  },
+  {
+    "t": 1789966950.0626209,
+    "role": "user",
+    "text": "and your phone number as five five nine three one four? One six eight."
+  },
+  {
+    "t": 1789966952.5816362,
+    "role": "user",
+    "text": "Seven. Is all of that correct?"
+  },
+  {
+    "t": 1789966952.850045,
+    "role": "assistant",
+    "text": "Yes, that's correct."
+  },
+  {
+    "t": 1789966968.938248,
+    "role": "user",
+    "text": "I can't proceed further right now, but I can make sure our clinics support team follows up with you. Would you like me to connect you to our patient support team?"
+  },
+  {
+    "t": 1789966969.250072,
+    "role": "assistant",
+    "text": "Oh, is there no way to schedule the appointment right now? I was hoping to book one for this Sunday at 10am."
+  },
+  {
+    "t": 1789966990.906968,
+    "role": "user",
+    "text": "I'm not able to schedule your appointment directly right now because I couldn't find your record in our system. I can connect you to our patient support team they can help you right away. Would you like to be connected?"
+  },
+  {
+    "t": 1789966990.9277172,
+    "role": "assistant",
+    "text": "Sure, please connect me to the patient support team."
+  },
+  {
+    "t": 1789967000.551973,
+    "role": "user",
+    "text": "Transferring you now. Thank you."
+  },
+  {
+    "t": 1789967005.3388858,
+    "role": "user",
+    "text": "Hello. You've reached the Pretty Good AI test line."
+  }
+]

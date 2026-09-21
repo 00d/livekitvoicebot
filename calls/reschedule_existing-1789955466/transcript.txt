@@ -1,0 +1,25 @@
+Call: reschedule_existing-1789955466
+Scenario: Rescheduling an existing appointment (reschedule_existing)
+Phone number dialed: +18054398008
+Duration: 149.5s   Ended: CloseReason.USER_INITIATED
+------------------------------------------------------------
+[01:51:16] PGAI AGENT: This call may be recorded for quality and training purposes.
+[01:51:19] PATIENT (bot): Okay, sounds good.
+[01:51:25] PGAI AGENT: Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. How may I help you today?
+[01:51:26] PATIENT (bot): Hi, I'm calling to reschedule an upcoming appointment for my shoulder. I think it's set for next Tuesday? But I have a work conflict that came up.
+[01:51:40] PGAI AGENT: Can you please confirm your full name and date of birth?
+[01:51:40] PATIENT (bot): Sure, my name is David Chen, and my date of birth is March 3rd, 1974.
+[01:52:03] PGAI AGENT: Just to confirm, I have your name as David Chen and your date of birth as March third nineteen seventy four. Is that correct? If so, could you please spell your first and last name for me?
+[01:52:03] PATIENT (bot): Yes, that's correct. It's D-A-V-I-D C-H-E-N.
+[01:52:16] PGAI AGENT: Thanks. Could you please spell your last name fully for me?
+[01:52:16] PATIENT (bot): Sure, it's C-H-E-N.
+[01:52:24] PATIENT (bot): Hi, were
+[01:52:27] PGAI AGENT: Would you like to use your phone
+[01:52:27] PATIENT (bot): Sorry, I didn't quite catch that. What do you mean? I'm just looking to reschedule my shoulder appointment.
+[01:52:52] PGAI AGENT: No problem. To find your record, I can look it up by the phone number you have on file with us. Would you like to use your phone number for the search? If so, please tell me the number you have on file. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+[01:52:52] PATIENT (bot): Sure, you can use my phone number. It's 555-839-2001.
+[01:53:06] PGAI AGENT: I have your phone number as five five five
+[01:53:14] PGAI AGENT: eight three nine two zero zero one and your date of birth as March third nineteen seventy four. Is that correct?
+[01:53:14] PATIENT (bot): Yes, that's correct. Were you able to find my upcoming shoulder appointment?
+[01:53:31] PGAI AGENT: I'm unable to find your record in our system right now. I'll connect you to our patient support team so they can help you reschedule your appointment. Please stay on the line.
+[01:53:34] PGAI AGENT: Transferring you now. Thank you.

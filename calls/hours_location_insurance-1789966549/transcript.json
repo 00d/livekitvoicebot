@@ -1,0 +1,82 @@
+[
+  {
+    "t": 1789966562.019543,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789966564.897388,
+    "role": "assistant",
+    "text": "Okay, thanks. Hi"
+  },
+  {
+    "t": 1789966570.970976,
+    "role": "user",
+    "text": "Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789966571.2892191,
+    "role": "assistant",
+    "text": "Hi there! I'm looking to get some information about your practice. Could you tell me what your office hours are?"
+  },
+  {
+    "t": 1789966585.96894,
+    "role": "user",
+    "text": "Our clinic is open Monday, Tuesday, and Thursday from nine AM to four PM,"
+  },
+  {
+    "t": 1789966591.8827221,
+    "role": "user",
+    "text": "Wednesday from twelve PM to seven PM, and Friday from nine AM to twelve PM."
+  },
+  {
+    "t": 1789966594.935647,
+    "role": "user",
+    "text": "Is there anything else you'd like to know about our practice?"
+  },
+  {
+    "t": 1789966594.951796,
+    "role": "assistant",
+    "text": "Great, thanks. Could you tell me where exactly the office is located, and is there parking nearby?"
+  },
+  {
+    "t": 1789966613.882155,
+    "role": "user",
+    "text": "Our office is at one two three four Recovery Way, suite two hundred, Austin. Free patient parking is available in the surface lot in front of the building."
+  },
+  {
+    "t": 1789966616.483828,
+    "role": "user",
+    "text": "If you need anything else, just let me know."
+  },
+  {
+    "t": 1789966616.499896,
+    "role": "assistant",
+    "text": "Got it, that's convenient. Do you take UnitedHealthcare insurance?"
+  },
+  {
+    "t": 1789966636.9827929,
+    "role": "user",
+    "text": "Yes. Pivot Point Orthopedics accepts most insurance plans, including UnitedHealthcare. If you have questions about your specific coverage or need to update your insurance, I can help with that too."
+  },
+  {
+    "t": 1789966636.998442,
+    "role": "assistant",
+    "text": "Awesome, that's really helpful. Thanks for all the information, I think that's all I needed for now! Have a great day."
+  },
+  {
+    "t": 1789966650.820151,
+    "role": "user",
+    "text": "You're welcome. If you need anything else,"
+  },
+  {
+    "t": 1789966653.122659,
+    "role": "user",
+    "text": "just give us a call. Take care."
+  },
+  {
+    "t": 1789966654.456498,
+    "role": "assistant",
+    "text": "Thanks, bye!"
+  }
+]

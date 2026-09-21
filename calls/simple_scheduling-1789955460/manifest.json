@@ -1,0 +1,13 @@
+{
+  "call_id": "simple_scheduling-1789955460",
+  "scenario_id": "simple_scheduling",
+  "scenario_name": "Simple appointment scheduling",
+  "scenario_category": "scheduling",
+  "phone_number": "+18054398008",
+  "started_at": "2026-09-21T01:51:03.471241+00:00",
+  "ended_at": "2026-09-21T01:53:06.896781+00:00",
+  "duration_seconds": 123.4,
+  "ended_reason": "CloseReason.USER_INITIATED",
+  "turn_count": 19,
+  "amd_events": []
+}

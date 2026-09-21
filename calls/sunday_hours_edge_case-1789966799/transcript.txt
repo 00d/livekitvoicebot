@@ -1,0 +1,29 @@
+Call: sunday_hours_edge_case-1789966799
+Scenario: Edge case: requesting a weekend slot (sunday_hours_edge_case)
+Phone number dialed: +18054398008
+Duration: 207.2s   Ended: CloseReason.USER_INITIATED
+------------------------------------------------------------
+[05:00:11] PGAI AGENT: This call may be recorded for quality and training purposes.
+[05:00:14] PATIENT (bot): Hi, I'd
+[05:00:20] PGAI AGENT: Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. How may I help you today?
+[05:00:20] PATIENT (bot): Hi, I'm calling to book a new appointment, please.
+[05:00:31] PGAI AGENT: I see you're calling from the number we have on file. Am I speaking with Maria?
+[05:00:33] PATIENT (bot): No, this is Linda Osei.
+[05:00:42] PGAI AGENT: Please provide your full date of birth.
+[05:00:42] PATIENT (bot): My date of birth is October 15th, 1983.
+[05:01:06] PGAI AGENT: Just to confirm, I have your name as Linda Osti, and your date of birth as October fifteenth nineteen eighty three. Is that correct? If so, could you please spell your first and last name for me?
+[05:01:06] PATIENT (bot): My last name is actually Osei, O-S-E-I. And my first name is Linda, L-I-N-D-A.
+[05:01:34] PGAI AGENT: Thank you. Just to confirm, your first name is Winda, spelled w I n d a. And your last name is Osei. Spelled o s e I. Your date of birth is October fifteenth nineteen eighty three. Is that all correct?
+[05:01:34] PATIENT (bot): No, my first name is Linda, with an L. L-I-N-D-A. The rest is correct.
+[05:01:57] PGAI AGENT: Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number. If you're not sure I can confirm your name and date of birth again, just let me know.
+[05:01:57] PATIENT (bot): Yes, you can use the number I'm calling from. And again, my first name is Linda, L-I-N-D-A.
+[05:02:23] PGAI AGENT: I have your first name, as Linda spelled l I n d a. Your last name is Osei. O s e I. Your date of birth, as October fifteenth nineteen eighty three,
+[05:02:30] PGAI AGENT: and your phone number as five five nine three one four? One six eight.
+[05:02:32] PGAI AGENT: Seven. Is all of that correct?
+[05:02:32] PATIENT (bot): Yes, that's correct.
+[05:02:48] PGAI AGENT: I can't proceed further right now, but I can make sure our clinics support team follows up with you. Would you like me to connect you to our patient support team?
+[05:02:49] PATIENT (bot): Oh, is there no way to schedule the appointment right now? I was hoping to book one for this Sunday at 10am.
+[05:03:10] PGAI AGENT: I'm not able to schedule your appointment directly right now because I couldn't find your record in our system. I can connect you to our patient support team they can help you right away. Would you like to be connected?
+[05:03:10] PATIENT (bot): Sure, please connect me to the patient support team.
+[05:03:20] PGAI AGENT: Transferring you now. Thank you.
+[05:03:25] PGAI AGENT: Hello. You've reached the Pretty Good AI test line.

@@ -1,0 +1,97 @@
+[
+  {
+    "t": 1789955493.721791,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789955502.485141,
+    "role": "user",
+    "text": "Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789955502.786613,
+    "role": "assistant",
+    "text": "Hi, my name is Angela Torres. I was calling to see if I could get a refill on my ibuprofen 800mg?"
+  },
+  {
+    "t": 1789955516.514285,
+    "role": "user",
+    "text": "Can you please provide your date of birth?"
+  },
+  {
+    "t": 1789955516.738184,
+    "role": "assistant",
+    "text": "Sure, it's June 15th, 1978."
+  },
+  {
+    "t": 1789955536.6239219,
+    "role": "user",
+    "text": "Just to confirm, I have your name as Angela Torres and your date of birth as June fifteenth nineteen seventy eight. Is that correct? So, please spell your first and last name for me."
+  },
+  {
+    "t": 1789955537.0362198,
+    "role": "assistant",
+    "text": "Yes, that's correct. Angela is A-N-G-E-L-A, and Torres is T-O-R-R-E-S."
+  },
+  {
+    "t": 1789955558.723202,
+    "role": "user",
+    "text": "Would you like to use your phone number to look up your record? If so, please tell me the number you have on file with us."
+  },
+  {
+    "t": 1789955563.5851068,
+    "role": "user",
+    "text": "If you're not sure, just let me know, and we'll confirm your name and date of birth again."
+  },
+  {
+    "t": 1789955563.593078,
+    "role": "assistant",
+    "text": "Sure, my phone number is 555-019-2834."
+  },
+  {
+    "t": 1789955583.170709,
+    "role": "user",
+    "text": "I have your phone number as five five five zero one two eight three four. And your date of birth,"
+  },
+  {
+    "t": 1789955586.968859,
+    "role": "user",
+    "text": "is June fifteenth nineteen seventy eight. Is that correct?"
+  },
+  {
+    "t": 1789955587.3375921,
+    "role": "assistant",
+    "text": "No, actually, the phone number is 555-019-2834. You said 012."
+  },
+  {
+    "t": 1789955609.0401769,
+    "role": "user",
+    "text": "I have your phone number as five five five zero one nine two eight three four. Is that correct?"
+  },
+  {
+    "t": 1789955609.0551949,
+    "role": "assistant",
+    "text": "Yes, that's correct"
+  },
+  {
+    "t": 1789955617.677139,
+    "role": "user",
+    "text": "I'm unable to find your record in our system. I'll connect you to our patient support team so they can help. Please stay on the line."
+  },
+  {
+    "t": 1789955620.486735,
+    "role": "user",
+    "text": "Transferring you now."
+  },
+  {
+    "t": 1789955620.9740999,
+    "role": "user",
+    "text": "Thank you."
+  },
+  {
+    "t": 1789955624.848005,
+    "role": "user",
+    "text": "Hello. You've reached the Pretty Good AI test line."
+  }
+]

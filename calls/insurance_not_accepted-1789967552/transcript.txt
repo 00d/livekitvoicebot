@@ -1,0 +1,19 @@
+Call: insurance_not_accepted-1789967552
+Scenario: Edge case: insurance the practice may not take (insurance_not_accepted)
+Phone number dialed: +18054398008
+Duration: 131.4s   Ended: CloseReason.PARTICIPANT_DISCONNECTED
+------------------------------------------------------------
+[05:12:44] PGAI AGENT: This call may be recorded for quality and training purposes.
+[05:12:53] PGAI AGENT: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+[05:12:53] PATIENT (bot): Hi, my name is Kevin O'Brien. I'm a new patient, and I'd like to schedule an appointment to get my elbow checked out.
+[05:13:06] PGAI AGENT: Please provide your date of birth.
+[05:13:06] PATIENT (bot): My date of birth is March 14th, 1975.
+[05:13:26] PGAI AGENT: Just to confirm, I have your name as Kevin O'Brien and your date of birth as March fourteenth nineteen seventy five? Is that correct? If so, could you please spell your last name for me?
+[05:13:26] PATIENT (bot): Yes, that's correct. O-B-R-I-E-N.
+[05:13:45] PGAI AGENT: Thank you. Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you are not sure, just let me know.
+[05:13:45] PATIENT (bot): I'm a new patient, so I don't think I have a record yet, but my phone number is 555-019-2834. Also, I have state Medicaid insurance, so I wanted to make sure you accept that.
+[05:14:14] PGAI AGENT: I have your phone number as five five five zero one nine two eight three four and your date of birth as March fourteenth nineteen seventy five. Is that correct?
+[05:14:14] PATIENT (bot): Yes, that's correct. Do you accept state Medicaid insurance? I want to make sure before we book anything.
+[05:14:32] PGAI AGENT: I can't find a matching record for you in our system. I'll connect you to our patient support team so they can help set up your account and schedule your appointment. Please stay on the line.
+[05:14:34] PGAI AGENT: Transfer you now. Thank you.
+[05:14:39] PGAI AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.

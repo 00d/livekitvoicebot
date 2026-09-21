@@ -1,0 +1,87 @@
+[
+  {
+    "t": 1789968065.9601548,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789968075.217816,
+    "role": "user",
+    "text": "Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789968075.572772,
+    "role": "assistant",
+    "text": "Hi, I'm calling to set up a new patient appointment. I hurt my shoulder playing basketball."
+  },
+  {
+    "t": 1789968089.513602,
+    "role": "user",
+    "text": "I see you're calling from the number we have on file. Am I speaking with Maria?"
+  },
+  {
+    "t": 1789968089.879436,
+    "role": "assistant",
+    "text": "No, actually, my name is Omar Farouk."
+  },
+  {
+    "t": 1789968101.611794,
+    "role": "user",
+    "text": "Please provide your full date of birth as well, Omar."
+  },
+  {
+    "t": 1789968101.77918,
+    "role": "assistant",
+    "text": "Yeah, it's... uh, sorry, one sec... March 14th, 1993."
+  },
+  {
+    "t": 1789968124.523927,
+    "role": "user",
+    "text": "Just to confirm, I have your name as Omar Faroo, and your date of birth as March fourteenth nineteen ninety three. Is that correct? If so, could you please spell your first and last name for me?"
+  },
+  {
+    "t": 1789968124.53702,
+    "role": "assistant",
+    "text": "Close, it's Farouk with a K at the end. First name is O-M-A-R, and last name is F-A-R-O-U-K. Date of birth is correct."
+  },
+  {
+    "t": 1789968152.4710982,
+    "role": "user",
+    "text": "Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number. If you're not sure, I can confirm your name and date of birth again. Let me know how you'd like to proceed."
+  },
+  {
+    "t": 1789968152.480921,
+    "role": "assistant",
+    "text": "Yeah, the number I'm calling from should be fine. Do you need me to read it out to you?"
+  },
+  {
+    "t": 1789968172.820565,
+    "role": "user",
+    "text": "I have your phone number as five five nine three one four six eight seven and your date of birth as March fourteenth nineteen ninety three. Is that correct?"
+  },
+  {
+    "t": 1789968172.85795,
+    "role": "assistant",
+    "text": "Yes, that's correct."
+  },
+  {
+    "t": 1789968189.3721669,
+    "role": "user",
+    "text": "I'm not able to find your record in our system right now. I'll connect you to our patient support team so they can help set up your new patient appointment. Please stay on the line."
+  },
+  {
+    "t": 1789968192.377495,
+    "role": "user",
+    "text": "Transferring you now. Thank you."
+  },
+  {
+    "t": 1789968197.411725,
+    "role": "user",
+    "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+  },
+  {
+    "t": 1789968198.514208,
+    "role": "assistant",
+    "text": "Oh, okay. Thanks, bye."
+  }
+]

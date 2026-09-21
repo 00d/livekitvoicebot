@@ -1,0 +1,97 @@
+[
+  {
+    "t": 1789955472.4116092,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789955475.259867,
+    "role": "assistant",
+    "text": "Hello?"
+  },
+  {
+    "t": 1789955481.071126,
+    "role": "user",
+    "text": "Thanks for calling PitaPoint Orthopaedics. Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789955481.3472419,
+    "role": "assistant",
+    "text": "Hi, I'm looking to schedule a new patient appointment. My left knee has been aching for a couple of weeks."
+  },
+  {
+    "t": 1789955494.7664242,
+    "role": "user",
+    "text": "Can I get your full name and date of birth? Please?"
+  },
+  {
+    "t": 1789955495.045944,
+    "role": "assistant",
+    "text": "Sure, my name is Maria Alvarez, and my date of birth is March 15th, 1990."
+  },
+  {
+    "t": 1789955518.944455,
+    "role": "user",
+    "text": "Just to confirm, I have your name as Maria Alvarez and your date of birth as March fifteenth nineteen ninety. Is that correct? If so, could you please spell your first and last name for me?"
+  },
+  {
+    "t": 1789955518.951106,
+    "role": "assistant",
+    "text": "Yes, that's correct! Maria is M-A-R-I-A, and Alvarez is A-L-V-A-R-E-Z."
+  },
+  {
+    "t": 1789955534.896189,
+    "role": "assistant",
+    "text": "Hello? Did"
+  },
+  {
+    "t": 1789955538.044037,
+    "role": "user",
+    "text": "Would you like to use your phone numb"
+  },
+  {
+    "t": 1789955538.050294,
+    "role": "assistant",
+    "text": "Yes, you can use the number I'm calling from."
+  },
+  {
+    "t": 1789955547.167233,
+    "role": "user",
+    "text": "have your phone number as five five nine"
+  },
+  {
+    "t": 1789955548.9444952,
+    "role": "user",
+    "text": "three one four"
+  },
+  {
+    "t": 1789955554.911896,
+    "role": "user",
+    "text": "one six eight seven. And your date of birth as March fifteenth nineteen ninety Is that correct?"
+  },
+  {
+    "t": 1789955555.195677,
+    "role": "assistant",
+    "text": "Yes, that's correct."
+  },
+  {
+    "t": 1789955569.708815,
+    "role": "user",
+    "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?"
+  },
+  {
+    "t": 1789955569.9950569,
+    "role": "assistant",
+    "text": "Oh, okay. Sure, you can connect me to the patient support team if that helps get this scheduled."
+  },
+  {
+    "t": 1789955581.157762,
+    "role": "user",
+    "text": "Transferring you now. Thank you."
+  },
+  {
+    "t": 1789955583.764093,
+    "role": "user",
+    "text": "Hello."
+  }
+]

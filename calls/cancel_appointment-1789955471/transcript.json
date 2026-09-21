@@ -1,0 +1,127 @@
+[
+  {
+    "t": 1789955482.687988,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789955485.557179,
+    "role": "assistant",
+    "text": "Hi, I'm calling"
+  },
+  {
+    "t": 1789955491.039701,
+    "role": "user",
+    "text": "Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789955491.355184,
+    "role": "assistant",
+    "text": "Hi, my name is Priya Nair. I need to cancel my appointment scheduled for this Friday, please."
+  },
+  {
+    "t": 1789955505.590552,
+    "role": "user",
+    "text": "Can you please provide your full name and date of birth?"
+  },
+  {
+    "t": 1789955505.805069,
+    "role": "assistant",
+    "text": "Sure, it's Priya Nair, and my date of birth is October 14th, 1994."
+  },
+  {
+    "t": 1789955529.055852,
+    "role": "user",
+    "text": "Just to confirm, I have your name as Priya Nair and your date of birth as October fourteenth nineteen ninety four. Is that correct? If not, could you please spell your first and last name for me?"
+  },
+  {
+    "t": 1789955529.063005,
+    "role": "assistant",
+    "text": "Yes, that's correct."
+  },
+  {
+    "t": 1789955536.286871,
+    "role": "user",
+    "text": "Thank you. One moment while I look up your information."
+  },
+  {
+    "t": 1789955536.656196,
+    "role": "assistant",
+    "text": "No problem, take your time."
+  },
+  {
+    "t": 1789955543.321173,
+    "role": "user",
+    "text": "Let me check your chart now."
+  },
+  {
+    "t": 1789955543.7067971,
+    "role": "assistant",
+    "text": "Okay, sounds good."
+  },
+  {
+    "t": 1789955546.30432,
+    "role": "user",
+    "text": "You like me to look up your rec"
+  },
+  {
+    "t": 1789955546.312402,
+    "role": "assistant",
+    "text": "Yes, I'm calling"
+  },
+  {
+    "t": 1789955549.305609,
+    "role": "user",
+    "text": "rec Would you like me to look up your"
+  },
+  {
+    "t": 1789955554.155334,
+    "role": "user",
+    "text": "Could you please provide the phone number you have on file with us?"
+  },
+  {
+    "t": 1789955554.164332,
+    "role": "assistant",
+    "text": "Sure, my phone number is 555-0198."
+  },
+  {
+    "t": 1789955576.435647,
+    "role": "user",
+    "text": "I have your phone number as five five five zero one nine eight and your date of birth as October fourteenth nineteen ninety four. Is that correct?"
+  },
+  {
+    "t": 1789955576.755039,
+    "role": "assistant",
+    "text": "Yes, that's correct."
+  },
+  {
+    "t": 1789955590.5005,
+    "role": "user",
+    "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. Would you like me to connect you to our patient support team?"
+  },
+  {
+    "t": 1789955590.959373,
+    "role": "assistant",
+    "text": "Can't you just cancel the Friday appointment for me, or do I need to talk to support for that?"
+  },
+  {
+    "t": 1789955606.4557598,
+    "role": "user",
+    "text": "I'm unable to access your record right now, so our support team will need to help you cancel the appointment. Would you like me to connect you to them?"
+  },
+  {
+    "t": 1789955606.604458,
+    "role": "assistant",
+    "text": "Sure, please connect me to the support team so I can get it canceled. Thanks."
+  },
+  {
+    "t": 1789955616.738716,
+    "role": "user",
+    "text": "Transferring you now. Thank you."
+  },
+  {
+    "t": 1789955619.2506418,
+    "role": "user",
+    "text": "Hello."
+  }
+]

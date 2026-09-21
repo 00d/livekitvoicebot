@@ -1,0 +1,102 @@
+[
+  {
+    "t": 1789955476.759006,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789955479.5945668,
+    "role": "assistant",
+    "text": "Okay, sounds good."
+  },
+  {
+    "t": 1789955485.942487,
+    "role": "user",
+    "text": "Thanks for calling Pivot Point Orthopedics. Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789955486.342727,
+    "role": "assistant",
+    "text": "Hi, I'm calling to reschedule an upcoming appointment for my shoulder. I think it's set for next Tuesday? But I have a work conflict that came up."
+  },
+  {
+    "t": 1789955500.7879,
+    "role": "user",
+    "text": "Can you please confirm your full name and date of birth?"
+  },
+  {
+    "t": 1789955500.9911869,
+    "role": "assistant",
+    "text": "Sure, my name is David Chen, and my date of birth is March 3rd, 1974."
+  },
+  {
+    "t": 1789955523.011818,
+    "role": "user",
+    "text": "Just to confirm, I have your name as David Chen and your date of birth as March third nineteen seventy four. Is that correct? If so, could you please spell your first and last name for me?"
+  },
+  {
+    "t": 1789955523.4465122,
+    "role": "assistant",
+    "text": "Yes, that's correct. It's D-A-V-I-D C-H-E-N."
+  },
+  {
+    "t": 1789955536.5918221,
+    "role": "user",
+    "text": "Thanks. Could you please spell your last name fully for me?"
+  },
+  {
+    "t": 1789955536.992425,
+    "role": "assistant",
+    "text": "Sure, it's C-H-E-N."
+  },
+  {
+    "t": 1789955544.526976,
+    "role": "assistant",
+    "text": "Hi, were"
+  },
+  {
+    "t": 1789955547.59117,
+    "role": "user",
+    "text": "Would you like to use your phone"
+  },
+  {
+    "t": 1789955547.601032,
+    "role": "assistant",
+    "text": "Sorry, I didn't quite catch that. What do you mean? I'm just looking to reschedule my shoulder appointment."
+  },
+  {
+    "t": 1789955572.091419,
+    "role": "user",
+    "text": "No problem. To find your record, I can look it up by the phone number you have on file with us. Would you like to use your phone number for the search? If so, please tell me the number you have on file. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?"
+  },
+  {
+    "t": 1789955572.0988102,
+    "role": "assistant",
+    "text": "Sure, you can use my phone number. It's 555-839-2001."
+  },
+  {
+    "t": 1789955586.082788,
+    "role": "user",
+    "text": "I have your phone number as five five five"
+  },
+  {
+    "t": 1789955594.0406342,
+    "role": "user",
+    "text": "eight three nine two zero zero one and your date of birth as March third nineteen seventy four. Is that correct?"
+  },
+  {
+    "t": 1789955594.294431,
+    "role": "assistant",
+    "text": "Yes, that's correct. Were you able to find my upcoming shoulder appointment?"
+  },
+  {
+    "t": 1789955611.948341,
+    "role": "user",
+    "text": "I'm unable to find your record in our system right now. I'll connect you to our patient support team so they can help you reschedule your appointment. Please stay on the line."
+  },
+  {
+    "t": 1789955614.7416582,
+    "role": "user",
+    "text": "Transferring you now. Thank you."
+  }
+]

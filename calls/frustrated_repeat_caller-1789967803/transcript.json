@@ -1,0 +1,87 @@
+[
+  {
+    "t": 1789967815.318848,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789967824.419925,
+    "role": "user",
+    "text": "Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789967824.778661,
+    "role": "assistant",
+    "text": "Hi, I already called about this earlier today and got cut off, and nobody called me back. I'm just trying to confirm if my appointment was actually moved to Thursday like I was told yesterday?"
+  },
+  {
+    "t": 1789967843.915931,
+    "role": "user",
+    "text": "I see you're calling from the number we have on file. Am I speaking with Maria?"
+  },
+  {
+    "t": 1789967844.1782222,
+    "role": "assistant",
+    "text": "No, this is Sandra Wells. Like I said, I called earlier about confirming my appointment change to Thursday."
+  },
+  {
+    "t": 1789967857.657056,
+    "role": "user",
+    "text": "Please provide your full date of birth so I can look up your information."
+  },
+  {
+    "t": 1789967857.975484,
+    "role": "assistant",
+    "text": "My date of birth is October 14th, 1979."
+  },
+  {
+    "t": 1789967879.273433,
+    "role": "user",
+    "text": "Just to confirm, I have your name as Sandra Wells and your date of birth as October fourteenth. Nineteen seventy nine. Is that correct? If so, please spell your first and last name for me."
+  },
+  {
+    "t": 1789967879.2851,
+    "role": "assistant",
+    "text": "Yes, that's correct. It's S-A-N-D-R-A W-E-L-L-S. Could you please check if my appointment is set for Thursday?"
+  },
+  {
+    "t": 1789967906.614152,
+    "role": "user",
+    "text": "Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, I can confirm your name and date of birth again. Let me know how you'd like to proceed."
+  },
+  {
+    "t": 1789967906.628038,
+    "role": "assistant",
+    "text": "I already gave you my name and date of birth, but sure, my phone number is 555-019-2834. Can you see if Thursday is confirmed now?"
+  },
+  {
+    "t": 1789967932.11612,
+    "role": "user",
+    "text": "I have your phone number as five five five zero one nine two eight three four. And your date of birth as October fourteenth nineteen seventy nine? Is that correct?"
+  },
+  {
+    "t": 1789967932.1328719,
+    "role": "assistant",
+    "text": "Yes, that is correct. Now could you please check if my appointment was actually moved to Thursday?"
+  },
+  {
+    "t": 1789967959.710639,
+    "role": "user",
+    "text": "I'm unable to find a matching record for you in our system. I can connect you to our patient support team or if you'd like, I can document your request for follow-up. Would you like to speak with someone from our support team now?"
+  },
+  {
+    "t": 1789967959.728127,
+    "role": "assistant",
+    "text": "Yes, please connect me to the patient support team."
+  },
+  {
+    "t": 1789967967.127929,
+    "role": "user",
+    "text": "Transferring you now. Thank you."
+  },
+  {
+    "t": 1789967973.839305,
+    "role": "user",
+    "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+  }
+]

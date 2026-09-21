@@ -1,0 +1,112 @@
+[
+  {
+    "t": 1789967062.160752,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789967065.039723,
+    "role": "assistant",
+    "text": "Hello?"
+  },
+  {
+    "t": 1789967070.70964,
+    "role": "user",
+    "text": "Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789967070.994108,
+    "role": "assistant",
+    "text": "Hi, I'm calling to schedule a new patient appointment for some wrist pain I've been having."
+  },
+  {
+    "t": 1789967084.559555,
+    "role": "user",
+    "text": "See you're calling from the number we have on file. Am I speaking with Maria?"
+  },
+  {
+    "t": 1789967084.9468522,
+    "role": "assistant",
+    "text": "No, my name is Marcus Webb."
+  },
+  {
+    "t": 1789967092.014931,
+    "role": "user",
+    "text": "Please provide your full date of birth."
+  },
+  {
+    "t": 1789967092.142366,
+    "role": "assistant",
+    "text": "November 12th, 1996."
+  },
+  {
+    "t": 1789967105.84386,
+    "role": "user",
+    "text": "Just to confirm, can you please spell your first and last name for me?"
+  },
+  {
+    "t": 1789967105.86083,
+    "role": "assistant",
+    "text": "Sure, Marcus is M-A-R-C-U-S, and Webb is W-E-B-B."
+  },
+  {
+    "t": 1789967124.273942,
+    "role": "user",
+    "text": "Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number."
+  },
+  {
+    "t": 1789967129.563948,
+    "role": "user",
+    "text": "If you're not sure, I can confirm your name and date of birth again. Which would you prefer?"
+  },
+  {
+    "t": 1789967129.843811,
+    "role": "assistant",
+    "text": "Yeah, you can use the number I'm calling from. It's 555-0198."
+  },
+  {
+    "t": 1789967149.967049,
+    "role": "user",
+    "text": "And your phone number is five five five zero one nine eight. And your date of birth is November twelfth nineteen ninety six."
+  },
+  {
+    "t": 1789967151.49062,
+    "role": "user",
+    "text": "Is that correct?"
+  },
+  {
+    "t": 1789967151.504074,
+    "role": "assistant",
+    "text": "Yeah, that's correct."
+  },
+  {
+    "t": 1789967161.5683148,
+    "role": "user",
+    "text": "I wasn't able to find a matching record for you in our system."
+  },
+  {
+    "t": 1789967166.0578182,
+    "role": "user",
+    "text": "I'll connect you to our patient support team. So they can help you schedule your appointment."
+  },
+  {
+    "t": 1789967167.986175,
+    "role": "user",
+    "text": "Please stay on the line."
+  },
+  {
+    "t": 1789967170.042593,
+    "role": "user",
+    "text": "Transferring you now. Thank you."
+  },
+  {
+    "t": 1789967175.4550579,
+    "role": "user",
+    "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+  },
+  {
+    "t": 1789967176.7898712,
+    "role": "assistant",
+    "text": "Oh, alright. Goodbye."
+  }
+]

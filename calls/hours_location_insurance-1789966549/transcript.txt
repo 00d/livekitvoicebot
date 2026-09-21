@@ -1,0 +1,21 @@
+Call: hours_location_insurance-1789966549
+Scenario: Office hours, location, and insurance questions (hours_location_insurance)
+Phone number dialed: +18054398008
+Duration: 105.7s   Ended: CloseReason.USER_INITIATED
+------------------------------------------------------------
+[04:56:02] PGAI AGENT: This call may be recorded for quality and training purposes.
+[04:56:04] PATIENT (bot): Okay, thanks. Hi
+[04:56:10] PGAI AGENT: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+[04:56:11] PATIENT (bot): Hi there! I'm looking to get some information about your practice. Could you tell me what your office hours are?
+[04:56:25] PGAI AGENT: Our clinic is open Monday, Tuesday, and Thursday from nine AM to four PM,
+[04:56:31] PGAI AGENT: Wednesday from twelve PM to seven PM, and Friday from nine AM to twelve PM.
+[04:56:34] PGAI AGENT: Is there anything else you'd like to know about our practice?
+[04:56:34] PATIENT (bot): Great, thanks. Could you tell me where exactly the office is located, and is there parking nearby?
+[04:56:53] PGAI AGENT: Our office is at one two three four Recovery Way, suite two hundred, Austin. Free patient parking is available in the surface lot in front of the building.
+[04:56:56] PGAI AGENT: If you need anything else, just let me know.
+[04:56:56] PATIENT (bot): Got it, that's convenient. Do you take UnitedHealthcare insurance?
+[04:57:16] PGAI AGENT: Yes. Pivot Point Orthopedics accepts most insurance plans, including UnitedHealthcare. If you have questions about your specific coverage or need to update your insurance, I can help with that too.
+[04:57:16] PATIENT (bot): Awesome, that's really helpful. Thanks for all the information, I think that's all I needed for now! Have a great day.
+[04:57:30] PGAI AGENT: You're welcome. If you need anything else,
+[04:57:33] PGAI AGENT: just give us a call. Take care.
+[04:57:34] PATIENT (bot): Thanks, bye!

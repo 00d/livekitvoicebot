@@ -1,0 +1,27 @@
+Call: medication_refill-1789955477
+Scenario: Medication refill request (medication_refill)
+Phone number dialed: +18054398008
+Duration: 127.9s   Ended: CloseReason.USER_INITIATED
+------------------------------------------------------------
+[01:51:28] PGAI AGENT: This call may be recorded for quality and training purposes.
+[01:51:33] PGAI AGENT: Thanks for calling Pivot Point Orthopaedics.
+[01:51:36] PGAI AGENT: Part of Pretty Good AI. How may I help you today?
+[01:51:36] PATIENT (bot): Hi, my name is Robert Kim. I'm calling to see if I can get a refill on the pain pills Dr. Whitfield prescribed after my knee surgery six weeks ago.
+[01:51:50] PGAI AGENT: Please provide your date of birth.
+[01:51:51] PATIENT (bot): March 14th, 1963.
+[01:52:05] PGAI AGENT: Just to confirm, I have your name as Robert Kim, and your date of birth as March fourteenth nineteen sixty three.
+[01:52:07] PATIENT (bot): That's
+[01:52:08] PGAI AGENT: Is that correct?
+[01:52:08] PATIENT (bot): Yes, that's
+[01:52:14] PGAI AGENT: Would you like me to look up your
+[01:52:14] PATIENT (bot): Yes, please. I just need a refill on those pain pills Dr. Whitfield gave me after my surgery. My pharmacy is the CVS on Main Street.
+[01:52:34] PGAI AGENT: Can you please provide the phone number you have on file with us? If you are not sure just let me know.
+[01:52:34] PATIENT (bot): It should be 555-839-2041.
+[01:52:47] PGAI AGENT: I have your phone number as five five five eight three nine
+[01:52:54] PGAI AGENT: two zero four one. And your date of birth as March fourteenth nineteen sixty three. Is that correct?
+[01:52:54] PATIENT (bot): Yes, that's correct. Could you check on getting that prescription refilled for me?
+[01:53:13] PGAI AGENT: I can't proceed further right now, but I can make sure our clinic support team follows up with you. You like me to connect you to our patient support team?
+[01:53:13] PATIENT (bot): Yes, please connect me to the patient support team. That would be great.
+[01:53:19] PGAI AGENT: Transferring you now. Thank you.
+[01:53:24] PATIENT (bot): Thanks,
+[01:53:24] PGAI AGENT: Hello. Please You've reached the Pretty Good AI test line. Goodbye.

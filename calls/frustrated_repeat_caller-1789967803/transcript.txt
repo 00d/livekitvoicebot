@@ -1,0 +1,22 @@
+Call: frustrated_repeat_caller-1789967803
+Scenario: Edge case: frustrated patient, had a bad prior experience (frustrated_repeat_caller)
+Phone number dialed: +18054398008
+Duration: 170.1s   Ended: CloseReason.USER_INITIATED
+------------------------------------------------------------
+[05:16:55] PGAI AGENT: This call may be recorded for quality and training purposes.
+[05:17:04] PGAI AGENT: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+[05:17:04] PATIENT (bot): Hi, I already called about this earlier today and got cut off, and nobody called me back. I'm just trying to confirm if my appointment was actually moved to Thursday like I was told yesterday?
+[05:17:23] PGAI AGENT: I see you're calling from the number we have on file. Am I speaking with Maria?
+[05:17:24] PATIENT (bot): No, this is Sandra Wells. Like I said, I called earlier about confirming my appointment change to Thursday.
+[05:17:37] PGAI AGENT: Please provide your full date of birth so I can look up your information.
+[05:17:37] PATIENT (bot): My date of birth is October 14th, 1979.
+[05:17:59] PGAI AGENT: Just to confirm, I have your name as Sandra Wells and your date of birth as October fourteenth. Nineteen seventy nine. Is that correct? If so, please spell your first and last name for me.
+[05:17:59] PATIENT (bot): Yes, that's correct. It's S-A-N-D-R-A W-E-L-L-S. Could you please check if my appointment is set for Thursday?
+[05:18:26] PGAI AGENT: Would you like me to look up your record using the phone number you have on file with us? If so, please tell me that number. If you're not sure, I can confirm your name and date of birth again. Let me know how you'd like to proceed.
+[05:18:26] PATIENT (bot): I already gave you my name and date of birth, but sure, my phone number is 555-019-2834. Can you see if Thursday is confirmed now?
+[05:18:52] PGAI AGENT: I have your phone number as five five five zero one nine two eight three four. And your date of birth as October fourteenth nineteen seventy nine? Is that correct?
+[05:18:52] PATIENT (bot): Yes, that is correct. Now could you please check if my appointment was actually moved to Thursday?
+[05:19:19] PGAI AGENT: I'm unable to find a matching record for you in our system. I can connect you to our patient support team or if you'd like, I can document your request for follow-up. Would you like to speak with someone from our support team now?
+[05:19:19] PATIENT (bot): Yes, please connect me to the patient support team.
+[05:19:27] PGAI AGENT: Transferring you now. Thank you.
+[05:19:33] PGAI AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.

@@ -1,0 +1,13 @@
+{
+  "call_id": "cancel_appointment-1789955471",
+  "scenario_id": "cancel_appointment",
+  "scenario_name": "Canceling an appointment",
+  "scenario_category": "scheduling",
+  "phone_number": "+18054398008",
+  "started_at": "2026-09-21T01:51:14.362506+00:00",
+  "ended_at": "2026-09-21T01:53:42.552713+00:00",
+  "duration_seconds": 148.2,
+  "ended_reason": "CloseReason.USER_INITIATED",
+  "turn_count": 25,
+  "amd_events": []
+}

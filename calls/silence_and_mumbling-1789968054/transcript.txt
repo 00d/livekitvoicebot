@@ -1,0 +1,22 @@
+Call: silence_and_mumbling-1789968054
+Scenario: Edge case: long pause / trailing off mid-sentence (silence_and_mumbling)
+Phone number dialed: +18054398008
+Duration: 146.4s   Ended: CloseReason.USER_INITIATED
+------------------------------------------------------------
+[05:21:05] PGAI AGENT: This call may be recorded for quality and training purposes.
+[05:21:15] PGAI AGENT: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+[05:21:15] PATIENT (bot): Hi, I'm calling to set up a new patient appointment. I hurt my shoulder playing basketball.
+[05:21:29] PGAI AGENT: I see you're calling from the number we have on file. Am I speaking with Maria?
+[05:21:29] PATIENT (bot): No, actually, my name is Omar Farouk.
+[05:21:41] PGAI AGENT: Please provide your full date of birth as well, Omar.
+[05:21:41] PATIENT (bot): Yeah, it's... uh, sorry, one sec... March 14th, 1993.
+[05:22:04] PGAI AGENT: Just to confirm, I have your name as Omar Faroo, and your date of birth as March fourteenth nineteen ninety three. Is that correct? If so, could you please spell your first and last name for me?
+[05:22:04] PATIENT (bot): Close, it's Farouk with a K at the end. First name is O-M-A-R, and last name is F-A-R-O-U-K. Date of birth is correct.
+[05:22:32] PGAI AGENT: Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number. If you're not sure, I can confirm your name and date of birth again. Let me know how you'd like to proceed.
+[05:22:32] PATIENT (bot): Yeah, the number I'm calling from should be fine. Do you need me to read it out to you?
+[05:22:52] PGAI AGENT: I have your phone number as five five nine three one four six eight seven and your date of birth as March fourteenth nineteen ninety three. Is that correct?
+[05:22:52] PATIENT (bot): Yes, that's correct.
+[05:23:09] PGAI AGENT: I'm not able to find your record in our system right now. I'll connect you to our patient support team so they can help set up your new patient appointment. Please stay on the line.
+[05:23:12] PGAI AGENT: Transferring you now. Thank you.
+[05:23:17] PGAI AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[05:23:18] PATIENT (bot): Oh, okay. Thanks, bye.

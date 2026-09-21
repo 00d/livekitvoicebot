@@ -1,0 +1,13 @@
+{
+  "call_id": "interruption_barge_in-1789967050",
+  "scenario_id": "interruption_barge_in",
+  "scenario_name": "Edge case: interruptions / talking over the assistant",
+  "scenario_category": "edge_case",
+  "phone_number": "+18054398008",
+  "started_at": "2026-09-21T05:04:13.660597+00:00",
+  "ended_at": "2026-09-21T05:06:25.167270+00:00",
+  "duration_seconds": 131.5,
+  "ended_reason": "CloseReason.USER_INITIATED",
+  "turn_count": 22,
+  "amd_events": []
+}

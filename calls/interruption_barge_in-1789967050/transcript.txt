@@ -1,0 +1,27 @@
+Call: interruption_barge_in-1789967050
+Scenario: Edge case: interruptions / talking over the assistant (interruption_barge_in)
+Phone number dialed: +18054398008
+Duration: 131.5s   Ended: CloseReason.USER_INITIATED
+------------------------------------------------------------
+[05:04:22] PGAI AGENT: This call may be recorded for quality and training purposes.
+[05:04:25] PATIENT (bot): Hello?
+[05:04:30] PGAI AGENT: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?
+[05:04:30] PATIENT (bot): Hi, I'm calling to schedule a new patient appointment for some wrist pain I've been having.
+[05:04:44] PGAI AGENT: See you're calling from the number we have on file. Am I speaking with Maria?
+[05:04:44] PATIENT (bot): No, my name is Marcus Webb.
+[05:04:52] PGAI AGENT: Please provide your full date of birth.
+[05:04:52] PATIENT (bot): November 12th, 1996.
+[05:05:05] PGAI AGENT: Just to confirm, can you please spell your first and last name for me?
+[05:05:05] PATIENT (bot): Sure, Marcus is M-A-R-C-U-S, and Webb is W-E-B-B.
+[05:05:24] PGAI AGENT: Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number.
+[05:05:29] PGAI AGENT: If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+[05:05:29] PATIENT (bot): Yeah, you can use the number I'm calling from. It's 555-0198.
+[05:05:49] PGAI AGENT: And your phone number is five five five zero one nine eight. And your date of birth is November twelfth nineteen ninety six.
+[05:05:51] PGAI AGENT: Is that correct?
+[05:05:51] PATIENT (bot): Yeah, that's correct.
+[05:06:01] PGAI AGENT: I wasn't able to find a matching record for you in our system.
+[05:06:06] PGAI AGENT: I'll connect you to our patient support team. So they can help you schedule your appointment.
+[05:06:07] PGAI AGENT: Please stay on the line.
+[05:06:10] PGAI AGENT: Transferring you now. Thank you.
+[05:06:15] PGAI AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[05:06:16] PATIENT (bot): Oh, alright. Goodbye.

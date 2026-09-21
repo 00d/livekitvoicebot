@@ -1,0 +1,72 @@
+[
+  {
+    "t": 1789967564.5189571,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789967573.272264,
+    "role": "user",
+    "text": "Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789967573.510349,
+    "role": "assistant",
+    "text": "Hi, my name is Kevin O'Brien. I'm a new patient, and I'd like to schedule an appointment to get my elbow checked out."
+  },
+  {
+    "t": 1789967586.543137,
+    "role": "user",
+    "text": "Please provide your date of birth."
+  },
+  {
+    "t": 1789967586.769591,
+    "role": "assistant",
+    "text": "My date of birth is March 14th, 1975."
+  },
+  {
+    "t": 1789967606.212847,
+    "role": "user",
+    "text": "Just to confirm, I have your name as Kevin O'Brien and your date of birth as March fourteenth nineteen seventy five? Is that correct? If so, could you please spell your last name for me?"
+  },
+  {
+    "t": 1789967606.227077,
+    "role": "assistant",
+    "text": "Yes, that's correct. O-B-R-I-E-N."
+  },
+  {
+    "t": 1789967625.010924,
+    "role": "user",
+    "text": "Thank you. Would you like me to look up your record using your phone number? If so, please provide the number you have on file with us. If you are not sure, just let me know."
+  },
+  {
+    "t": 1789967625.024276,
+    "role": "assistant",
+    "text": "I'm a new patient, so I don't think I have a record yet, but my phone number is 555-019-2834. Also, I have state Medicaid insurance, so I wanted to make sure you accept that."
+  },
+  {
+    "t": 1789967654.113686,
+    "role": "user",
+    "text": "I have your phone number as five five five zero one nine two eight three four and your date of birth as March fourteenth nineteen seventy five. Is that correct?"
+  },
+  {
+    "t": 1789967654.129626,
+    "role": "assistant",
+    "text": "Yes, that's correct. Do you accept state Medicaid insurance? I want to make sure before we book anything."
+  },
+  {
+    "t": 1789967672.16224,
+    "role": "user",
+    "text": "I can't find a matching record for you in our system. I'll connect you to our patient support team so they can help set up your account and schedule your appointment. Please stay on the line."
+  },
+  {
+    "t": 1789967674.510931,
+    "role": "user",
+    "text": "Transfer you now. Thank you."
+  },
+  {
+    "t": 1789967679.565522,
+    "role": "user",
+    "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+  }
+]

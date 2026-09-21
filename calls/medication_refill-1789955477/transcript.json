@@ -1,0 +1,112 @@
+[
+  {
+    "t": 1789955488.040888,
+    "role": "user",
+    "text": "This call may be recorded for quality and training purposes."
+  },
+  {
+    "t": 1789955493.802089,
+    "role": "user",
+    "text": "Thanks for calling Pivot Point Orthopaedics."
+  },
+  {
+    "t": 1789955496.5546188,
+    "role": "user",
+    "text": "Part of Pretty Good AI. How may I help you today?"
+  },
+  {
+    "t": 1789955496.855063,
+    "role": "assistant",
+    "text": "Hi, my name is Robert Kim. I'm calling to see if I can get a refill on the pain pills Dr. Whitfield prescribed after my knee surgery six weeks ago."
+  },
+  {
+    "t": 1789955510.835722,
+    "role": "user",
+    "text": "Please provide your date of birth."
+  },
+  {
+    "t": 1789955511.055019,
+    "role": "assistant",
+    "text": "March 14th, 1963."
+  },
+  {
+    "t": 1789955525.851721,
+    "role": "user",
+    "text": "Just to confirm, I have your name as Robert Kim, and your date of birth as March fourteenth nineteen sixty three."
+  },
+  {
+    "t": 1789955527.206271,
+    "role": "assistant",
+    "text": "That's"
+  },
+  {
+    "t": 1789955528.4267552,
+    "role": "user",
+    "text": "Is that correct?"
+  },
+  {
+    "t": 1789955528.43388,
+    "role": "assistant",
+    "text": "Yes, that's"
+  },
+  {
+    "t": 1789955534.2520452,
+    "role": "user",
+    "text": "Would you like me to look up your"
+  },
+  {
+    "t": 1789955534.259973,
+    "role": "assistant",
+    "text": "Yes, please. I just need a refill on those pain pills Dr. Whitfield gave me after my surgery. My pharmacy is the CVS on Main Street."
+  },
+  {
+    "t": 1789955554.144911,
+    "role": "user",
+    "text": "Can you please provide the phone number you have on file with us? If you are not sure just let me know."
+  },
+  {
+    "t": 1789955554.4067771,
+    "role": "assistant",
+    "text": "It should be 555-839-2041."
+  },
+  {
+    "t": 1789955567.938294,
+    "role": "user",
+    "text": "I have your phone number as five five five eight three nine"
+  },
+  {
+    "t": 1789955574.694231,
+    "role": "user",
+    "text": "two zero four one. And your date of birth as March fourteenth nineteen sixty three. Is that correct?"
+  },
+  {
+    "t": 1789955574.953442,
+    "role": "assistant",
+    "text": "Yes, that's correct. Could you check on getting that prescription refilled for me?"
+  },
+  {
+    "t": 1789955593.0007098,
+    "role": "user",
+    "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you. You like me to connect you to our patient support team?"
+  },
+  {
+    "t": 1789955593.355426,
+    "role": "assistant",
+    "text": "Yes, please connect me to the patient support team. That would be great."
+  },
+  {
+    "t": 1789955599.293708,
+    "role": "user",
+    "text": "Transferring you now. Thank you."
+  },
+  {
+    "t": 1789955604.115687,
+    "role": "assistant",
+    "text": "Thanks,"
+  },
+  {
+    "t": 1789955604.999468,
+    "role": "user",
+    "text": "Hello. Please You've reached the Pretty Good AI test line. Goodbye."
+  }
+]
