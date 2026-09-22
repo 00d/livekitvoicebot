@@ -1,4 +1,4 @@
-# Pretty Good AI — Patient Caller Voice Bot
+# Voice AI QA Agent — Autonomous LiveKit Voice-Testing Pipeline
 
 A LiveKit Agents (Python, pipeline mode — separate STT/LLM/TTS, no
 speech-to-speech) voice bot that calls the assessment test line and role-plays
